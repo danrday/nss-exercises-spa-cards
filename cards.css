@@ -1,0 +1,29 @@
+#container {
+  width: 95%;
+  margin-top: 20px;
+}
+
+.card {
+  width: 20%;
+  height: 100px;
+  background-color: purple;
+  margin: auto;
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+}
+
+.text {
+  width: 30px;
+  height: 50px;
+  display: inline-block;
+  color: white;
+  background-color: purple;
+  text-overflow: wrap;
+}
+
+.deleteButton {
+  display: block;
+  margin-bottom: 60px;
+}
